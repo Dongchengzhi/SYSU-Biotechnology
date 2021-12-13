@@ -5,7 +5,7 @@ library(ggsci)
 library(introdataviz)
 library(pacman)
 
-raw_data <- read.csv('../03_Data/clean_R.csv',header=TRUE, sep=",")
+raw_data <- read.csv('../03_Data/clean_R_Me.csv',header=TRUE, sep=",")
 
 class1_data <- raw_data[which(raw_data$class == 1),]
 class1_clean_data <- dplyr::filter(class1_data, !is.na(sex))
