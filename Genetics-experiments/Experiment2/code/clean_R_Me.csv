@@ -1,0 +1,17 @@
+﻿type,number,sex,group,class
+ABC,7,W,DCZ,1
+abc,10,W,DCZ,1
+AbC,5,W,DCZ,1
+aBc,3,W,DCZ,1
+aBC,1,W,DCZ,1
+Abc,1,W,DCZ,1
+ABc,0,W,DCZ,1
+abC,1,W,DCZ,1
+ABC,8,M,DCZ,1
+abc,7,M,DCZ,1
+AbC,3,M,DCZ,1
+aBc,3,M,DCZ,1
+aBC,1,M,DCZ,1
+Abc,1,M,DCZ,1
+ABc,2,M,DCZ,1
+abC,4,M,DCZ,1
